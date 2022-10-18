@@ -86,6 +86,7 @@ public class CreateOrganizationTest extends Baseclass
 public void modifyorg()
 {
 	System.out.println("modified");
+	System.out.print("Login");
 }
 	}	
 System.out.println("Logout");
